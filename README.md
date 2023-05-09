@@ -15,3 +15,6 @@ Tengo experiencia en diversas tecnologías y herramientas, incluyendo  React Js 
 En mi tiempo libre, disfruto explorando nuevas ideas de diseño 🎨 y creando experiencias de usuario atractivas e intuitivas 🤩. Además, estoy comprometido con la comunidad de código abierto y me gusta participar en eventos de tecnología y compartir mi conocimiento con otros 🌎.
 
 Si estás buscando un colaborador en un proyecto emocionante o simplemente quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme! 📩
+
+-Email: fedeasaad1099@outlook.com.ar  
+-Linkedin: https://www.linkedin.com/in/federicoasaad/
